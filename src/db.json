@@ -1,0 +1,59 @@
+{
+  "posts": [
+    {
+      "name": "ahmed",
+      "address": "shh",
+      "id": 18
+    },
+    {
+      "name": "slaman",
+      "address": "umer",
+      "id": 19
+    },
+    {
+      "id": "20",
+      "name": "asad",
+      "address": "sqd"
+    },
+    {
+      "id": "21",
+      "name": "asif",
+      "address": "hhgt"
+    },
+    {
+      "id": "22",
+      "name": "umser",
+      "address": "kkl"
+    },
+    {
+      "id": "23",
+      "name": "tanveer",
+      "address": "ga"
+    },
+    {
+      "id": "24",
+      "name": "sak mml",
+      "address": "mmkj"
+    },
+    {
+      "id": "25",
+      "name": "saman  bhg",
+      "address": "kpr"
+    },
+    {
+      "id": "27",
+      "name": "hhg",
+      "address": "mmj"
+    },
+    {
+      "id": "22334",
+      "name": "iqbal",
+      "address": "kkju"
+    },
+    {
+      "id": "3333",
+      "name": "ashiq",
+      "address": "hhuj"
+    }
+  ]
+}
